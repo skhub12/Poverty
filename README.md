@@ -1,3 +1,8 @@
+Reference : Special Thanks to Jiahui Lu for putting up this great notebook on satellite imagery
+
+https://github.com/carsonluuu/Poverty-Prediction-by-Satellite-Imagery
+
+
 # Poverty Prediction by Combination of Satellite Imagery and Machine Learning
 *Is it feasible for you to estimate the standard of living or energy consumption of a site based night-time satellite imagery？ This means whether we can do the satellite imagery processing for socioeconomic analysis?*
 
